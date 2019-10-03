@@ -23,3 +23,8 @@
     jsconfig.json
     package.json
     package-lock.json
+
+
+## API Endpoints
+
+![Endpoints](Endpoints.jpg)
