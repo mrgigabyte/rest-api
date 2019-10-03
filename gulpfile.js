@@ -12,6 +12,7 @@ const nodemon = require('gulp-nodemon');
  * Remove build directory.
  */
 
+//Rimraf is used to remove a folder. Equivalent to linux command ~$ rm -rf /dir/folder
 gulp.task('clean', function () {
     return gulp.src('build/*', {
         read: false
